@@ -1,0 +1,50 @@
+.login h1 a {
+    background-image: url('logo_png.png');
+    background-size:200px !important;
+    height:100px;
+    width:200px !important;
+    background-color: white;
+    border-radius: 10%;
+}
+.login h1 a:hover{
+    opacity: 0.8;
+}
+
+
+body.login {
+ background-image: url('DSC0470-1536x1024.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: bottom;
+    background-size:cover;
+    background-color: white;
+    font-family: "Amatic SC";
+    font-size: 2rem;
+}
+.login label{
+    font-size: 1.5rem;
+    color: white;
+}
+
+.login #nav a{
+    font-size: 1.5rem;
+    color: white;
+}
+.login #nav a:hover{
+    opacity: 0.5;
+    color: white;
+}
+
+.login form {
+    background: none;
+}
+
+.login #backtoblog a{
+    font-size: 1.5rem;
+    color: white;
+}
+
+.login #backtoblog a:hover{
+    opacity: 0.5;
+    color: white;
+}
